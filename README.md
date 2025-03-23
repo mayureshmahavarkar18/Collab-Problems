@@ -3,8 +3,9 @@
 Welcome to the Collaborative Problem Solving Hub!
 This project is all about working together to solve problems, learn new skills, and share creative approaches. Whether you're a beginner, a seasoned coder, or someone who just loves thinking critically — you're welcome here!
 
-📝 What’s This Project About?
-We aim to:
+## 📝 What’s This Project About?
+
+### We aim to:
 
 🧠 Pick interesting problems (programming, math, logic, real-world scenarios, etc.).
 
@@ -14,7 +15,8 @@ We aim to:
 
 📚 Learn from each other’s strategies, code, and thought processes.
 
-🔍 How It Works
+## 🔍 How It Works
+
 📄 Problem Posting:
 New problems will be posted in the /problems folder, each in its own directory with a description.
 
@@ -27,10 +29,7 @@ Add your solution(s) in the corresponding /solutions folder. Multiple solutions 
 🧐 Review & Collaboration:
 Review others’ solutions, suggest improvements, or offer alternative methods.
 
-📁 Project Structure
-arduino
-Copy
-Edit
+## 📁 Project Structure:
 /problems
     └── problem-001
          └── README.md  // Problem description
@@ -39,7 +38,8 @@ Edit
          └── your-solution.ext  // Your solution file
 /discussions
     └── problem-001.md  // Key ideas, strategies, and insights
-🌟 Contributing
+
+## 🌟 Contributing
 🍴 Fork this repo and clone it locally.
 
 🎯 Choose a problem to solve or suggest a new one.
@@ -52,11 +52,11 @@ Edit
 
 Everyone’s solution counts — there’s no single right way!
 
-🛠️ Technologies & Languages
+## 🛠️ Technologies & Languages
 🌐 Language-agnostic!
 Feel free to contribute in Python, JavaScript, C++, or any language you prefer.
 
-🎯 Project Goals
+## 🎯 Project Goals
 🚀 Improve problem-solving skills.
 
 💡 Foster collaborative learning.
@@ -65,10 +65,10 @@ Feel free to contribute in Python, JavaScript, C++, or any language you prefer.
 
 ✍️ Encourage clear explanation & documentation of thought processes.
 
-📬 Get Involved
+## 📬 Get Involved
 Have a cool problem idea? Want to join discussions?
 Open an issue, start a conversation, or submit a solution!
 Let’s solve together. 💪✨
 
-⚖️ License
+## ⚖️ License
 This project is open-source under the MIT License.
