@@ -1,4 +1,4 @@
-# 💻 Solutions Folder
+## 💻 Solutions Folder
 
 This folder contains solutions to the problems.
 
