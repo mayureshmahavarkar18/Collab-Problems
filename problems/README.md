@@ -1,4 +1,4 @@
-# 📝 Problems Folder
+## 📝 Problems Folder
 
 This folder contains all the problems we'll be solving together.
 
