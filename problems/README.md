@@ -11,5 +11,5 @@ ID Strucutue: "Number 3 digit ex., 065"__"Hardness level on 00 - 07 scale 7 bein
 #
 
 Here's a example ID: Problem_034_04_LEETCDE
-This example no is 34 and has hardness of 04 and LEETCDE for LeetCode.
+* This example no is 34 and has hardness of 04 and LEETCDE for LeetCode.
 
