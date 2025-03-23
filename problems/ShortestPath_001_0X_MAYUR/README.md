@@ -16,3 +16,6 @@ OUTPUT: path = [(5, 6), (6, 5), (7, 4), (7, 3), (7, 2), (7, 1), (7, 0)]
 
 
 ## Constraints & notes:
+- One step at a time, you can't tavel more than one step at a time.
+- You can move horizontally, vertically and digonally to the closest coord.
+- All the coord are discrete interger values.
