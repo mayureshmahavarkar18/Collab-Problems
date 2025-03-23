@@ -2,5 +2,9 @@
 
 This folder contains all the problems we'll be solving together.
 
-Each problem has its own folder structured like:
+## 📂 Folder Structure
+
+Each problem has its own discussion file:
+    - Each problem will have a id along with the name
+
 
