@@ -1,4 +1,4 @@
-🚀✨ #Collaborative Problem Solving Hub
+# 🚀✨ Collaborative Problem Solving Hub
 
 Welcome to the Collaborative Problem Solving Hub!
 This project is all about working together to solve problems, learn new skills, and share creative approaches. Whether you're a beginner, a seasoned coder, or someone who just loves thinking critically — you're welcome here!
